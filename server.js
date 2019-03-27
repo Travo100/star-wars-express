@@ -35,6 +35,13 @@ const characters = [
     role: "Jedi Master",
     age: 55,
     forcePoints: 1350
+  },
+  {
+    routeName: "hansolo",
+    name: "Han Solo",
+    role: "Dirty Smuggler",
+    age: 28,
+    forcePoints: 1
   }
 ];
 
